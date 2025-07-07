@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-sdfsdf hew welcome xxxxxxxx
-=======
-sdfsdf hew welcome
->>>>>>> e5c13491f3dec734aff083fc1b80e16976ac591c
+Welcome
